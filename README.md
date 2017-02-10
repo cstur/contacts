@@ -1,5 +1,5 @@
 本例是一个带热更新的React Native App通讯录Demo
-通讯录部分的代码引用了：
+通讯录部分的代码引用了，并升级了RN的版本：
 https://github.com/chenbin92/React-native-example/blob/ListView-example/app/contact.js
 
 本例可在android设备同时安装测试版和发布版，配置目录android/app/src/debug
@@ -43,7 +43,7 @@ codepush 1.17兼容版本：
 ```
 
 #### 图片更新有限的支持请参考：
-https://github.com/Microsoft/react-native-code-push
+https://github.com/Microsoft/react-native-code-push#supported-components
 
 #### 教程
 
