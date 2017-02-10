@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">dWDusPo2NpV3Du_cl6q_QtgGeHU-4kVfymAPG</string>
+    <string name="app_name">contacts</string>
+</resources>
