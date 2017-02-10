@@ -20,10 +20,14 @@ npm run start
     >$ cd android && ./gradlew assembleRelease
 
     >$ cd android && ./gradlew installRelease
+
+
   * IOS, 生成ipa
     1. xcode 生成ipa可参考http://www.jianshu.com/p/2c62cd3e9cc1
-    2. 然后可通过fir分发内侧包，本例地址
-        https://fir.im/tc64
+
+  * 通过fir分发内侧包，本例地址
+        ios: https://fir.im/tc64
+        android: https://fir.im/pg23
 
 #### CodePush 作用
 * JS/Images 热更新
